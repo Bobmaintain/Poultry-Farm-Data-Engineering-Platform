@@ -1,4 +1,4 @@
-# 1. Poultry Farm Data Engineering Platform
+# Poultry Farm Data Engineering Platform
 Developed a Python=based data engineering platform designed to collect, clean, transform, and analyse poultry farm production data. The system processes daily flock records, including bird population, mortality, feed consumption, water consumption, and average body weight, to generate actionable production insights.
 
 
